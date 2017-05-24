@@ -1,7 +1,6 @@
 # Compiled class file
 *.class
-/.idea/copyright
-/.idea/libraries
+/.idea/
 # Log file
 *.log
 
